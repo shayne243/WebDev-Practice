@@ -30,3 +30,9 @@ body {
     font-size: 18px;
     line-height: 9px;
 }
+#tribute-link {
+    color: gray;
+}
+#tribute-link:hover {
+    color: red;
+}
