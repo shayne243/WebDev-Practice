@@ -1,3 +1,17 @@
-h1 {
-    background: orange;
+body {
+    background-color: darkgray;
+}
+.introduction {
+    background-color: rgba(0, 0, 139, 0.4);
+    border-radius: 10px; 
+}
+.introduction h1 {
+    font-family: "Palatino";
+    text-align: center;
+}
+.introduction h3 {
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
 }
