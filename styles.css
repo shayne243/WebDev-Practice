@@ -1,17 +1,20 @@
 body {
-    background-color: darkgray;
+    background-color: #C3F73A;
 }
 .introduction {
-    background-color: rgba(0, 0, 139, 0.4);
+    background-color: rgba(9, 77, 146, 0.8);
+    color: white;
     border-radius: 10px; 
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 .introduction h1 {
-    font-family: "Palatino";
     text-align: center;
 }
 .introduction h3 {
     font-size: 16px;
     text-align: center;
     text-transform: uppercase;
-    font-style: italic;
+}
+#images {
+    display: flex;
 }
