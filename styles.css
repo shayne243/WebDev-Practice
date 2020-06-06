@@ -1,16 +1,16 @@
 body {
     background-color: #C3F73A;
 }
-.main {
+#main {
     background-color: rgba(9, 77, 146, 0.8);
     color: white;
     border-radius: 10px; 
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
-.main h1 {
+#main h1 {
     text-align: center;
 }
-.main h3 {
+#main h3 {
     font-size: 16px;
     text-align: center;
     text-transform: uppercase;
