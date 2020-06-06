@@ -19,6 +19,8 @@ body {
     margin: auto;
     display: block;
     border-radius: 10px;
+    max-width: 100%;
+    height: auto;
 }
 #img-caption {
     text-align: center;
@@ -31,7 +33,7 @@ body {
     line-height: 9px;
 }
 #tribute-link {
-    color: gray;
+    color: #333333;
 }
 #tribute-link:hover {
     color: red;
