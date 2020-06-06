@@ -17,4 +17,31 @@ body {
 }
 #images {
     display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding-bottom: 10px;
+    flex-wrap: nowrap;
+}
+#images img {
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#image1 {
+    width: 220px;
+    height: 415px;
+    order: 2;
+    margin-left: 20px;
+}
+#image2 {
+    align-self: center;
+    width: 703.56px;
+    height: 415px;
+    order:3;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#image3 {
+    order: 1;  
+    margin-left: 20px; 
 }
