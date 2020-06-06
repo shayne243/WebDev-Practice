@@ -1,8 +1,9 @@
 body {
-    background-color: #C3F73A;
+    background-color: rgba(9, 77, 146, 0.8);
+    text-shadow: 2px 1.2px gray;
 }
 #main {
-    background-color: rgba(9, 77, 146, 0.8);
+    background: linear-gradient(45deg, #68B684,#95E06C, #C3F73A);
     color: white;
     border-radius: 10px; 
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
